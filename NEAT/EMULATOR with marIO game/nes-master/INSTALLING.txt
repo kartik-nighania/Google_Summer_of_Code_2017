@@ -1,0 +1,6 @@
+to remove -f wl something in the cmake file
+
+sudo cmake -D MLPACK_INCLUDE_DIR=/usr/local/include/mlpack -D MLPACK_LIBRARY=/usr/local/lib/libmlpack.so ../
+
+have a good working ne code too
+

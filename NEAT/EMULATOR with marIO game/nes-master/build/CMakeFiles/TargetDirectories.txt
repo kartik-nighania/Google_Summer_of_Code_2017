@@ -1,0 +1,5 @@
+/home/kartik_nighania/Documents/nes-master/build/CMakeFiles/edit_cache.dir
+/home/kartik_nighania/Documents/nes-master/build/CMakeFiles/nes.dir
+/home/kartik_nighania/Documents/nes-master/build/CMakeFiles/supermariobros.dir
+/home/kartik_nighania/Documents/nes-master/build/CMakeFiles/balancer.dir
+/home/kartik_nighania/Documents/nes-master/build/CMakeFiles/rebuild_cache.dir

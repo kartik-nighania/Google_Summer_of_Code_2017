@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kartik_nighania/Documents/nes-master/balancer.cpp
+messages.hpp
+/home/kartik_nighania/Documents/nes-master/messages.hpp
+cstdlib
+-
+iostream
+-
+thread
+-
+utility
+-
+boost/asio.hpp
+-
+boost/algorithm/string.hpp
+-
+
+/home/kartik_nighania/Documents/nes-master/messages.hpp
+string
+-
+
