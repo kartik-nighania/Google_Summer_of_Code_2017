@@ -2,7 +2,7 @@
 
 @file cmaes.txt
 @author Kartik Nighania
-@brief Tutorial on how to use the CMAES optimizer class.
+@brief Tutorial on how to run the CMAES optimizer class.
 
 @page cmaestutorial CMAES Optimizer tutorial (mlpack_cmaes)
 
